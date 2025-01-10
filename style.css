@@ -1,0 +1,54 @@
+body {
+    font-family: "Fira Sans", serif;
+    margin: 0;
+    padding: 0;
+    line-height: 1.5;
+}
+
+/* banner styles */
+.banner {
+    background-color: #C6E4D6;
+    margin: 117px 59px;
+    border-radius: 20px;
+    background-size: cover;
+    display: flex;
+
+
+}
+
+.title h3 {
+    font-size: 24px;
+    color: #5a5757;
+    margin-bottom: 5px;
+}
+
+.title h1 {
+    font-size: 56px;
+    font-weight: bold;
+    line-height: 1.4;
+    margin-bottom: 20px;
+}
+
+.title {
+    max-width: 50%;
+    padding: 59px 117px;
+}
+
+.hero {
+    margin-top: 80px;
+    margin-right: 59px;
+}
+
+.button {
+    margin-top: 15px;
+    padding: 17px 34px;
+    border-radius: 10px;
+    border: none;
+    font-size: 18px;
+    color: #FFFFFF;
+    background-color: #006A50;
+}
+
+h1 h3 button {
+    margin: 117px 59px;
+}
