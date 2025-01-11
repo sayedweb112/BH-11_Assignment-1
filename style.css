@@ -84,7 +84,13 @@ h1 h3 button {
 
 .all-vision h1 {
     margin-left: 30px;
+    font-size: 40px;
 
+}
+
+.all-vision p {
+    margin-left: 30px;
+    color: #494848;
 }
 
 .vision {
@@ -156,4 +162,29 @@ h1 h3 button {
     font-size: 16px;
     font-weight: 600;
     color: #fff;
+}
+
+/* Quate Section Styles */
+.quate {
+    padding: 24px;
+    border: 1px solid #ddd;
+    border-radius: 15px;
+    background: #fff;
+    color: #5a5757;
+    margin: 32px 30px 32px 80px;
+}
+
+.quate-text {
+    background-image: url('./assets/quote-bg.png');
+    background-repeat: no-repeat;
+
+
+
+
+}
+
+.quate h3 {
+    font-size: 20px;
+    font-weight: bold;
+    color: #444141;
 }
