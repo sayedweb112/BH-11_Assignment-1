@@ -188,3 +188,78 @@ h1 h3 button {
     font-weight: bold;
     color: #444141;
 }
+
+/* news card style */
+.news-card {
+    display: flex;
+    padding: 16px;
+    border: 1px solid #ddd;
+    border-radius: 15px;
+    background: #fff;
+
+}
+
+.satelite {
+    border-radius: 20px;
+}
+
+.recent-news {
+    padding: 24px;
+    margin-left: 60px;
+}
+
+.news h1 {
+    font-size: 40px;
+}
+
+.news p {
+    color: #5a5757;
+    margin-top: 50px;
+}
+
+.card-1 {
+    padding: 48px 32px 48px 48px;
+
+}
+
+.card-2 {
+    padding: 56px 48px 56px 32px;
+    width: 50%;
+}
+
+.card-2 h1 {
+    font-size: 32px;
+    font-weight: 700;
+    color: #5a5757;
+}
+
+.card-2 p {
+    color: #5a5757;
+
+
+}
+
+.card-2 button {
+    padding: 13px 26px;
+    color: #FFFFFF;
+    font-size: 18px;
+    font-weight: 600;
+    background-color: #006A50;
+    border: none;
+    outline: none;
+    border-radius: 8px;
+}
+
+.satelite {
+    margin-top: 50px;
+}
+
+.news-card button {
+    padding: 13px 26px;
+    border: none;
+    border-radius: 5px;
+    outline: none;
+    font-weight: 700;
+    color: #FFFFFF;
+    background-color: #006A50;
+}
