@@ -189,14 +189,24 @@ h1 h3 button {
     color: #444141;
 }
 
-/* news card style */
-.news-card {
+/* news card-1 style */
+.news-card-1 {
     display: flex;
     padding: 16px;
     border: 1px solid #ddd;
     border-radius: 15px;
     background: #fff;
 
+}
+
+.news-card-1 button {
+    padding: 13px 26px;
+    border: none;
+    border-radius: 5px;
+    outline: none;
+    font-weight: 700;
+    color: #FFFFFF;
+    background-color: #006A50;
 }
 
 .satelite {
@@ -206,6 +216,7 @@ h1 h3 button {
 .recent-news {
     padding: 24px;
     margin-left: 60px;
+
 }
 
 .news h1 {
@@ -254,7 +265,18 @@ h1 h3 button {
     margin-top: 50px;
 }
 
-.news-card button {
+/* news card-2 style */
+.news-card-2 {
+    display: flex;
+    padding: 16px;
+    border: 1px solid #ddd;
+    border-radius: 15px;
+    background: #fff;
+    margin-top: 20px;
+
+}
+
+.news-card-2 button {
     padding: 13px 26px;
     border: none;
     border-radius: 5px;
