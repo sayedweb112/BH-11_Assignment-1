@@ -145,6 +145,7 @@ h1 h3 button {
     font-weight: 600;
     color: #fff;
     margin-top: 26px;
+
 }
 
 .btn2 {
@@ -157,6 +158,7 @@ h1 h3 button {
     font-size: 16px;
     font-weight: 600;
     color: #fff;
+
 }
 
 .btn3 {
@@ -193,6 +195,15 @@ h1 h3 button {
     font-size: 20px;
     font-weight: bold;
     color: #444141;
+}
+
+.quate-description {
+    text-align: left;
+}
+
+.chief {
+    margin-right: 800px;
+
 }
 
 /* news card-1 style */
@@ -364,44 +375,10 @@ p {
 }
 
 .donate-now button:hover {
-    background-color: #0c7c4aea;
+    background-color: #005537;
 }
 
-/* subscribe style
-.subscribe-all {
-    margin-top: -50px;
 
-}
-
-.subscribe {
-    margin: 80px 265px;
-    background-color: #C6E4D6;
-    margin: 40px 110px;
-    padding: 50px 150px;
-    border-radius: 20px;
-
-}
-
-.subscribe h1 {
-    margin-left: 150px;
-    font-size: 40px;
-    font-weight: bold;
-
-}
-
-.subscribe p,
-input {
-    color: #5a5757;
-    margin-right: - 145px; 
-}
-
-/* .subscribe input {
-    padding: 18px 430px 18px 40px;
-    outline: none;
-    border: none;
-    border-radius: 8px;
-    font-size: 18px;
-} */
 
 
 /* subscribe style */
@@ -482,4 +459,23 @@ input {
     font-size: 14px;
     color: #5a5757;
     margin-right: 450px;
+}
+
+/* footer style */
+.footer {
+    background-color: #FFFFFF;
+    padding: 20px;
+
+}
+
+
+.footer-title {
+    text-align: center;
+}
+
+.footer,
+img {
+    text-align: center;
+    gap: 15px;
+
 }
