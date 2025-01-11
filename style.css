@@ -116,8 +116,12 @@ h1 h3 button {
 
 }
 
+.vision-des {
+    margin-left: 30px;
+}
+
 .all-vision p {
-    margin-left: 35px;
+    margin-right: 40px;
     color: #494848;
     text-align: left;
 }
@@ -275,6 +279,7 @@ h1 h3 button {
 .news p {
     color: #5a5757;
     margin-top: 50px;
+    text-align: left;
 }
 
 .card-1 {
