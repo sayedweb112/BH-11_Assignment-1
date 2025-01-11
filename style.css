@@ -285,3 +285,74 @@ h1 h3 button {
     color: #FFFFFF;
     background-color: #006A50;
 }
+
+
+
+/* donate style */
+.donate h1 {
+    font-size: 40px;
+    font-weight: bold;
+}
+
+.donate p {
+    color: #5a5757;
+}
+
+.donate h1,
+p {
+    text-align: center;
+    justify-content: center;
+}
+
+.donate {
+    margin-left: 70px;
+}
+
+.donate button {
+    padding: 40px;
+    font-size: 40px;
+    font-weight: 700;
+    background-color: #FFFFFF;
+    border: 1px solid #ddd;
+    border-radius: 20px;
+    outline: none;
+    margin-left: 30px;
+    color: #5a5757;
+
+}
+
+.donate button:hover {
+    background-color: #C6E4D6;
+}
+
+.box {
+    padding: 20px 422px;
+    margin-left: 60px;
+    outline: none;
+    border: none;
+    margin-top: 20px;
+
+}
+
+#but {
+    font-size: large;
+    color: #5a5757;
+}
+
+.donate-now button {
+    padding: 17px 34px;
+    margin: 32px 60px 80px;
+    margin-left: 450px;
+    border: none;
+    border-radius: 5px;
+    outline: none;
+    font-size: 18px;
+    font-weight: bold;
+    color: #FFFFFF;
+    background-color: #006A50;
+
+}
+
+.donate-now button:hover {
+    background-color: #0c7c4aea;
+}
