@@ -4,6 +4,7 @@ body {
     padding: 0;
     line-height: 1.5;
     background-color: #F1F1F3;
+
 }
 
 /* banner styles */
@@ -99,10 +100,14 @@ h1 h3 button {
     color: #494848;
     padding: 24px;
     margin: 20px 0px;
+}
 
+.digital-title {
+    text-align: left;
+}
 
-
-
+.digital-description {
+    text-align: left;
 
 }
 
@@ -111,6 +116,7 @@ h1 h3 button {
     border: 1px solid #ddd;
     border-radius: 15px;
     background: #548ff53b;
+    text-align: left;
 
 }
 
@@ -217,10 +223,12 @@ h1 h3 button {
     padding: 24px;
     margin-left: 60px;
 
+
 }
 
 .news h1 {
     font-size: 40px;
+
 }
 
 .news p {
@@ -242,10 +250,12 @@ h1 h3 button {
     font-size: 32px;
     font-weight: 700;
     color: #5a5757;
+    text-align: left;
 }
 
 .card-2 p {
     color: #5a5757;
+    text-align: left;
 
 
 }
@@ -355,4 +365,121 @@ p {
 
 .donate-now button:hover {
     background-color: #0c7c4aea;
+}
+
+/* subscribe style
+.subscribe-all {
+    margin-top: -50px;
+
+}
+
+.subscribe {
+    margin: 80px 265px;
+    background-color: #C6E4D6;
+    margin: 40px 110px;
+    padding: 50px 150px;
+    border-radius: 20px;
+
+}
+
+.subscribe h1 {
+    margin-left: 150px;
+    font-size: 40px;
+    font-weight: bold;
+
+}
+
+.subscribe p,
+input {
+    color: #5a5757;
+    margin-right: - 145px; 
+}
+
+/* .subscribe input {
+    padding: 18px 430px 18px 40px;
+    outline: none;
+    border: none;
+    border-radius: 8px;
+    font-size: 18px;
+} */
+
+
+/* subscribe style */
+.subscribe {
+    display: flex;
+    padding: 16px;
+
+    border-radius: 15px;
+
+}
+
+.newsletter {
+    background-color: #c5e1d3;
+    padding: 40px 20px;
+    border-radius: 20px;
+    width: 100%;
+    max-width: 800;
+    text-align: center;
+}
+
+.newsletter-title {
+    font-size: 32px;
+    color: #000;
+    margin-bottom: 20px;
+    font-weight: bold;
+}
+
+.newsletter-description {
+    font-size: 16px;
+    color: #5a5757;
+    margin-bottom: 30px;
+    line-height: 1.5;
+    max-width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.all-input {
+    margin-right: -400px;
+}
+
+.input-container {
+    padding: 18px 430px 18px 40px;
+    outline: none;
+    border: none;
+    border-radius: 8px;
+    font-size: 18px;
+}
+
+.email-input {
+    flex: 1;
+    padding: 18px 403px 18px 40px;
+    border: none;
+    border-radius: 8px;
+    font-size: 16px;
+    outline: none;
+    color: #5a5757;
+}
+
+.subscribe-button {
+    background-color: #006A50;
+    color: #FFFFFF;
+    border: none;
+    border-radius: 8px;
+    padding: 16px 30px;
+    font-size: 16px;
+    font-weight: bold;
+    cursor: pointer;
+
+
+}
+
+.subscribe-button:hover {
+    background-color: #005537;
+}
+
+.spam {
+    font-size: 14px;
+    color: #5a5757;
+    margin-right: 450px;
 }
