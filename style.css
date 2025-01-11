@@ -345,6 +345,7 @@ h1 h3 button {
 .donate h1 {
     font-size: 40px;
     font-weight: bold;
+    margin-right: 150px;
 }
 
 .donate p {
